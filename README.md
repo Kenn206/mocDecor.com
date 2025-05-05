@@ -14,7 +14,7 @@ Website giới thiệu và bán các dòng tranh gỗ thủ công như:
 - HTML + CSS + Bootstrap *(chưa dùng JS 😅)*
 - Thiết kế **responsive**, tối ưu mobile  
 - Hosting qua **GitHub Pages**  
-- Hỗ trợ liên hệ: *0987654321*
+- Hỗ trợ liên hệ: *0388648466*
 
 ---
 
