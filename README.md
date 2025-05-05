@@ -14,4 +14,4 @@ HTML + CSS + Bootstrap (chưa dùng JS 😅)
 ---
 
 **Link web chạy thực tế:**  
-👉 https://kennguyen.github.io/mocdecor
+👉 https://kenn206.github.io/mocDecor.com/
