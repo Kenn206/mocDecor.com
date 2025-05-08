@@ -1,5 +1,6 @@
 # 🪵 Mộc Decor - Trang Web Đồ Gỗ Handmade
 
+<<<<<<< HEAD
 🎨 **Giới thiệu:**  
 Website giới thiệu và bán các dòng tranh gỗ thủ công như:
 
@@ -24,3 +25,20 @@ Website giới thiệu và bán các dòng tranh gỗ thủ công như:
 ---
 
 ✨ *Dự án cá nhân đầu tay của sinh viên IT tên Kenn 😎*  
+=======
+Website giới thiệu và bán các sản phẩm tranh gỗ thủ công như:
+- Tranh mã đáo thành công
+- Tranh thư pháp
+- Tranh tứ quý, đồng hồ, cá chép,...
+
+💻 Được xây dựng bằng:  
+HTML + CSS + Bootstrap (chưa dùng JS 😅)
+
+📞 Hotline: 0388648466  
+📦 Giao diện responsive, dễ dùng trên mobile
+
+---
+
+**Link web chạy thực tế:**  
+👉 https://kenn206.github.io/mocDecor.com/
+>>>>>>> 03dc80d (Upload web mocdecor)

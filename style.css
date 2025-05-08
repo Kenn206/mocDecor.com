@@ -115,7 +115,7 @@
     margin: 10px 0;
 }
 .content__container .container .header--title h2 {
-    width: 15%;
+    width: 200px;
     text-align: center;
     background-color: #823905;
     color: white;
@@ -187,7 +187,7 @@
     gap: 10px;
 }
 .content__container .container .sanPham .box__content .giasanpham p {
-    font-size: 25px;
+    font-size: 1.3rem;
     font-weight: 600;
     margin: 0 !important;
     color: #f0a00c;
@@ -369,4 +369,100 @@ footer .container .taikhoan ul li a {
 }
 .sanpham--danhmuc .container .timkiemsanpham .menu-danhmuc .danhmuc-sanpham .box-sanpham .checkbox input {
     width: 30px;
+}
+
+@media screen and (max-width: 1024px){
+    .nav-up .nav-up__container .nav-up__container--search .box_input input {
+        padding-right: 50px;
+    }
+    .navbar__container {
+        height: auto;
+    }
+    .navbar__container .navbar__list li a {
+        padding: 0px 7px;
+    }
+}  
+@media screen and (max-width: 768px){
+    .nav-up__container--hotline button {
+        display: none;
+    }
+    .nav-up__container--search button, input {
+        display: none;
+    }
+    .nav-up__container .nav-up__container--logo {
+        width: 100vw;
+        min-height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .navbar__container {
+        display: none;
+    }
+    .hotline .container .hotline__container {
+
+    }
+    .hotline__container--left {
+        flex: 1;
+    }
+    .hotline__container--center {
+        flex: 2;
+    }
+    .hotline__container--right {
+        flex: 1;
+    }
+    .header--title {
+        height: 50px;
+    }
+    .header--title p {
+        width: 75% !important;
+    }
+    .sanPham {
+        height: auto;
+        flex-wrap: wrap;
+    }
+    .sanPham .box__content{
+        width: 200px !important;
+        margin: 5px;
+    }
+    .TinTuc-BaiViet--content {
+        flex-wrap: wrap;
+    }
+    footer .container {
+        flex-wrap: wrap;
+    }
+    @media screen and (max-width: 425px){
+        .hotline .container {
+            display: flex;
+            justify-content: center;
+        }
+        .hotline .container .hotline__container {
+            flex-direction: column;
+            width: 280px;
+            align-items: center;
+            gap: 5px;
+        }
+        .sanPham .box__content {
+            width: 190px !important;
+        }
+        .image__banner .container {
+            flex-direction: column;
+            align-items: center;
+        }
+        .image__banner .container img {
+            width: 95%;
+            margin: 5px;
+        }
+        .header--title h2 {
+            width: 250px !important;
+        }
+        .TinTuc-BaiViet--content {
+            gap: 10px;
+            justify-content: center !important;
+        }
+        footer .container {
+            display: flex;
+            justify-content: center;
+        }
+    }
 }
