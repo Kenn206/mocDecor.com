@@ -399,9 +399,6 @@ footer .container .taikhoan ul li a {
     .navbar__container {
         display: none;
     }
-    .hotline .container .hotline__container {
-
-    }
     .hotline__container--left {
         flex: 1;
     }
